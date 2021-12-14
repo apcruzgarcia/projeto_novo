@@ -4,3 +4,5 @@
 # texto
 
 library(tidyverse)
+join()
+select()
